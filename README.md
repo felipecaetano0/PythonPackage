@@ -3,5 +3,5 @@ Python Package Template
 - CLI entrypoint
 - Tests
 - Dockerfile
-- Python Wheels (builded)
- 
+- Python Wheels files (builded)
+- GitHub Actions
